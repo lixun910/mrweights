@@ -22,3 +22,28 @@ map Python script used by Hadoop Stream Pipline
 
 [gen_wheader.sh]
 used to insert a header to the result (GAL file) of gal_reducer.py
+
+## References ##
+* Xun Li, Wenwen Li, Luc Anselin, Sergio Rey and Julia Koschinsky. [A MapReduce algorithm to create contiguity weights for spatial analysis of big data](http://www.public.asu.edu/~xunli/p50-li.pdf).
+  Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial '14), p50-53, Dallas Texas, 2014.
+
+
+```bibtex
+@inproceedings{Li:2014:MAC:2676536.2676543,
+ author = {Li, Xun and Li, Wenwen and Anselin, Luc and Rey, Sergio and Koschinsky, Julia},
+ title = {A MapReduce Algorithm to Create Contiguity Weights for Spatial Analysis of Big Data},
+ booktitle = {Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data},
+ series = {BigSpatial '14},
+ year = {2014},
+ isbn = {978-1-4503-3132-6},
+ location = {Dallas, Texas},
+ pages = {50--53},
+ numpages = {4},
+ url = {http://doi.acm.org/10.1145/2676536.2676543},
+ doi = {10.1145/2676536.2676543},
+ acmid = {2676543},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {big data, mapreduce, spatial weights},
+} 
+```
