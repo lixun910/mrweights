@@ -25,7 +25,7 @@ used to insert a header to the result (GAL file) of gal_reducer.py
 
 ## References ##
 * Xun Li, Wenwen Li, Luc Anselin, Sergio Rey and Julia Koschinsky. [A MapReduce algorithm to create contiguity weights for spatial analysis of big data](http://www.public.asu.edu/~xunli/p50-li.pdf).
-  Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial '14), p50-53, Dallas Texas, 2014.
+  Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial '14), p50-53, Dallas Texas USA, 2014.
 
 
 ```bibtex
